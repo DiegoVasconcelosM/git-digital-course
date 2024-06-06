@@ -8,3 +8,4 @@
  ## Salvando alterações no Git
 * Comando Git push
 * Comando git pull
+* Comando Git fetch
